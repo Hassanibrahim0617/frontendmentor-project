@@ -24,6 +24,8 @@
     background:hsl(178, 100%, 50%);
    background-position: fixed;
   background-image: url("icon-view.svg");
+  background-position: center;
+  
   width: 320px;
   height: 300px;
   margin:20px 0 0 23px ;
