@@ -21,12 +21,12 @@
 }
 
 .header{
-    background:hsl(178, 100%, 50%);
-   background-position: relative;
+   background:hsl(178, 100%, 50%);
+  background-position: relative;
+  background-size: auto;
   background-image: url("icon-view.svg");
   background-position: center;
   background-repeat: no-repeat;
-  transform:translate(10px, 10px);
   width: 320px;
   height: 300px;
   margin:20px 0 0 23px ;
