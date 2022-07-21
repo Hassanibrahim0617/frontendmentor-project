@@ -22,7 +22,7 @@
 
 .header{
     background:hsl(178, 100%, 50%);
-   background-position: fixed;
+   background-position: relative;
   background-image: url("icon-view.svg");
   background-position: center;
   background-repeat: no-repeat;
