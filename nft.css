@@ -6,6 +6,7 @@
     background-color:hsl(217, 54%, 11%);
     border: hidden;
     height: 105vh;
+   opacity: 0.5;
     margin: 120px 420px;
     border-radius: 10px;
 }
